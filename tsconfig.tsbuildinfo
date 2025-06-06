@@ -1,0 +1,1 @@
+{"root":["./src/app.tsx","./src/api.ts","./src/main.tsx","./src/vite-env.d.ts","./src/components/cargomodal.tsx","./src/components/cargotable.tsx","./src/components/clientmodal.tsx","./src/components/clienttable.tsx","./src/pages/cargoes.tsx","./src/pages/clients.tsx","./src/types/cargo.ts","./src/types/client.ts"],"version":"5.8.3"}
